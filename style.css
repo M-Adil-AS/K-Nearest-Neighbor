@@ -1,0 +1,13 @@
+#chart-container{
+    height:98vmin; 
+    width:95vmin;
+    float:left;
+}
+
+#form{
+    float:left;
+    text-align: center;
+    margin-left: 35vmin;
+    margin-top: 35vmin;
+    font-family: Arial, Helvetica, sans-serif;
+} 
